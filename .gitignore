@@ -1,0 +1,8 @@
+# Virtual environments
+.venv310/
+
+# IDE files
+.idea/
+
+# Data files
+*.csv
